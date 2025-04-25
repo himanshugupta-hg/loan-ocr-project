@@ -11,7 +11,7 @@ An OCR-based solution for automated processing of personal loan applications.
 - Mock banking system integration
 - User-friendly web interface
 
-![ss1](../loan-ocr-project/UI/ss1.png)
+![ss1](./UI/ss1.png)
 
 ![ss2](../loan-ocr-project/UI/ss2.png)
 
