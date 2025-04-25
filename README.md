@@ -13,9 +13,9 @@ An OCR-based solution for automated processing of personal loan applications.
 
 ![ss1](./UI/ss1.png)
 
-![ss2](../loan-ocr-project/UI/ss2.png)
+![ss2](./UI/ss2.png)
 
-![ss3](../loan-ocr-project/UI/ss3.png)
+![ss3](./UI/ss3.png)
 
 ## Installation
 1. Clone repository: (NOT NOW. ONLY AFTER TCS APPROVAL TO DISPLAY PROJECT)
