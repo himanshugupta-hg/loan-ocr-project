@@ -12,9 +12,7 @@ An OCR-based solution for automated processing of personal loan applications.
 - User-friendly web interface
 
 ![ss1](./UI/ss1.png)
-
 ![ss2](./UI/ss2.png)
-
 ![ss3](./UI/ss3.png)
 
 ## Installation
